@@ -56,11 +56,11 @@ teeth1 = Teeth()
 
 # Создаём объект класса бойца:
 fighter = Fighter(sword1)
-print("Oh, ty z kurwa bober! Ja perdole jakyi bydlo!")
+print("Боец приветствует - Oh, ty z kurwa bober! Ja perdole jakyi bydlo!")
 
 # Создаем объект класса монстра
 monster = Monster(teeth1)
-print("Я твой дом труба шатал!")
+print("Монстр возражает - Я твой дом труба шатал!")
 
 # Наносим удар:
 fighter.fight()
